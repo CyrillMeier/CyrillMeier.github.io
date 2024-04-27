@@ -22,14 +22,8 @@
     <section id="about-rome">
       <h2>Über Rom</h2>
       <article>
-        <h3>Informationen über die Gründung und Legenden von Rom</h3>
-        <p>
-          Gründung:
-          
-Rom wurde nach einer alten Sage etwa im Jahr 750 vor Christus von den Zwillingen Romulus und Remus gegründet. Der Sage nach waren die beiden ausgesetzt worden und von einer Wölfin großgezogen worden. Historiker gehen davon aus, dass Rom im 8. Jahrhundert v. Chr. durch die Etrusker gegründet wurde,. Der kleine Ort wurde dann in Hunderten von Jahren zur Hauptstadt des Römischen Reiches
-
-          Legenden:
-          
+        <h3>Informationen über die Legenden von Rom</h3>
+        <p>       
 •	Version des Plutarch
 In der Version von Plutarch hatte Amulius, der König von Alba Longa, seinen älteren Bruder Numitor vom Thron gestürzt. Dessen Tochter Rhea Silvia – auch Ilia genannt – zwang er, Vestalin zu werden. So wollte Amulius verhindern, dass in der Familie des Bruders Nachfahren entstünden, die seinen Thron gefährden könnten. Mars stieg jedoch zu ihrem Tempel hinab, vergewaltigte sie, und sie empfing von ihm die Zwillinge Romulus und Remus.
 Nach deren Geburt wurden die Kinder auf Amulius’ Befehl in einem Weidenkorb auf dem Tiber ausgesetzt und Ilia ins Gefängnis gebracht. Der Tiber führte jedoch gerade Hochwasser, und als das Wasser zurückging, strandete die Wanne am Ficus Ruminalis im Schlamm. Eine vom Schreien der Kinder angelockte Wölfin (Mamma Lupa) brachte sie in ihre Höhle und säugte sie. Ein Specht brachte ihnen zusätzlich Nahrung. Sie wurden jedoch von König Amulius’ Hirten Faustulus entdeckt. Faustulus, der Schweinehirt des Hofes, und seine Frau nahmen daraufhin die Kinder auf und zogen sie groß, ohne zu wissen, wer sie waren. (Dieser Abschnitt der Legende zeigt – wie auch in der im Folgenden genannten Version – eine auffallende Parallele zur Erzählung von Phylonome und ihren Zwillingssöhnen Lykastos und Parrhasios.)
