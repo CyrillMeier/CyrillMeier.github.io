@@ -64,8 +64,7 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
  <p> 
 133 v. Chr.: Tiberius und Gaius Gracchus suchen nach Lösungen für soziale Probleme 
         </p>
-      </article>
-      <article>
+            <article>
         <h3>Beschreibungen von wichtigen Bauwerken</h3>
         <p>
           Kolosseum von Rom:
