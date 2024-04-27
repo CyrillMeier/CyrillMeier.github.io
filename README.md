@@ -38,7 +38,7 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
             <article>
         <h3>Eine Karte von Rom</h3>
         <p>
-          ![image](https://cyrillmeier.github.io/assets/167202805/9c926e1e-aa92-4678-8aee-afbf42fe309e)
+          ![image](https://github.com/CyrillMeier/CyrillMeier.github.io/assets/167202805/314162c9-16f2-433e-90d3-d3fdd95e5470)
         </p>
       </article>
     </section>
