@@ -35,8 +35,7 @@ Dionysios von Halikarnassos’ Version beginnt beim Befehl des Amulius, die Zwil
 Als sie 18 Jahre alt geworden seien, habe es Streit zwischen ihnen und den Hirten des Numitor um Weideland zwischen dem Palatin und dem Aventin gegeben. Die Zwillinge hätten die Hirten des Numitor gewaltsam vertrieben. Diese hätten daraufhin den beiden eine Falle gestellt und deren Herden nachts überfallen. Da Romulus aber gerade wegen eines Opfers abwesend gewesen sei, hätten sie nur Remus gefangen und nach Alba gebracht. Romulus habe sofort die Verfolgung aufnehmen wollen, sei aber von Faustulus davon abgehalten worden. Faustulus habe ihm daraufhin seine Herkunft mitgeteilt. Daher habe sich Romulus entschlossen, eine größere Streitmacht zu sammeln, um gegen Amulius vorzugehen. Remus sei zu Numitor gebracht worden. Dieser habe ihm dann jegliche Strafe unter der Bedingung erlassen, dass er ihm gegen Amulius helfe. Dabei habe er auch vom traurigen Schicksal seiner Tochter und der erzwungenen Aussetzung der Zwillinge erzählt. Dann habe er einen Boten zu Romulus geschickt, damit dieser sich dem Kampf anschließen möge, was er auch getan habe.
 Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und nun wusste Numitor, dass er seinen Enkel gefunden hatte. Faustulus, der von dieser Wendung der Dinge nichts gewusst habe, sei mit dem Korb, in dem die Zwillinge ausgesetzt waren, zur Stadt geeilt, um Numitor aufzuklären, sei aber von den Wachen des Amulius festgenommen worden. Diesem habe er die ganzen Umstände erzählen müssen. Amulius habe dann den Faustulus nach dem Aufenthaltsort befragt, weil er nunmehr die durch göttlichen Beistand geretteten Verwandten nicht länger Hirten sein lassen wolle. Faustulus habe Verdacht geschöpft, dass er sie in Wahrheit habe töten wollen, und ihm einen Ort in den Bergen genannt. Amulius habe Faustulus daraufhin mit einigen zuverlässigen Männern losgeschickt, denen er vorher heimlich den Befehl gegeben habe, die beiden Hirten gefangen zu nehmen und zu ihm zu bringen. Dann wollte er Numitor unter Arrest stellen, bis er die Situation mit den Zwillingen in seinem Sinne geregelt hätte, und sandte einen Boten zu Numitor mit der Bitte, zu ihm zu kommen. Der Bote habe aber dem Numitor den Plan des Amulius verraten. Daraufhin seien Numitor und die Zwillinge mit vielen Kriegern und den Bürgern der Stadt zum Palast geeilt, hätten ihn gestürmt und Amulius getötet.
         </p>
-      </article>
-      <article>
+            <article>
         <h3>Eine Karte von Rom</h3>
         <p>
           ![image](https://github.com/CyrillMeier/CyrillMeier.github.io/assets/167202805/fcde330e-051b-48f3-b40a-effcc2194a73)
@@ -90,12 +89,8 @@ Der Konstantinsbogen (etwa 25 Meter hoch) ist der größte unter den drei Triump
 Titusbogen:
 Der direkt an der Via Sacra errichtete Bogen ist der älteste Triumphbogen auf dem Forum. Er besteht aus 1 Bogen und ist etwa 15,4 Meter hoch, 13,5 Meter breit und 4,75 Meter tief. Auf dem Bogen wurden mit der Niederschlagung des Judäeraufstands und der Eroberung Jerusalems 70 n.
         </p>
-      </article>
-    </section>
-  </main>
 
   <footer>
     <p>&copy; 2024 Cyrill Meier</p>
   </footer>
-</body>
-</html>
+
