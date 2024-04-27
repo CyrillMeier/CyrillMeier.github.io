@@ -50,16 +50,14 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
       <article>
         <h3>Zeitachse mit wichtigen Ereignissen</h3>
         <p>
-        
-          753 v. Chr.: Sagenhafte Gründung Roms
-          510 v. Chr.: Vertreibung des letzten Königs, Rom wird zur Republik
-          451/450 v. Chr.: Zwölftafelgesetze; erste Aufzeichnung des römischen Rechts
-          390 v. Chr.: Plünderung Roms durch die Gallier
-          287 v. Chr.: Ende des Ständekampfes zwischen Patriziern und Plebejern
-          264-241 v. Chr.: Erster Punischer Krieg gegen die Karthager
-          146 v. Chr.: Zerstörung von Karthago; Rom macht das Hinterland zur neuen römischen Provinz Africa
-          133 v. Chr.: Tiberius und Gaius Gracchus suchen nach Lösungen für soziale Probleme
-          
+753 v. Chr.: Sagenhafte Gründung Roms
+510 v. Chr.: Vertreibung des letzten Königs, Rom wird zur Republik
+451/450 v. Chr.: Zwölftafelgesetze; erste Aufzeichnung des römischen Rechts
+390 v. Chr.: Plünderung Roms durch die Gallier
+287 v. Chr.: Ende des Ständekampfes zwischen Patriziern und Plebejern
+264-241 v. Chr.: Erster Punischer Krieg gegen die Karthager
+146 v. Chr.: Zerstörung von Karthago; Rom macht das Hinterland zur neuen römischen Provinz Africa
+133 v. Chr.: Tiberius und Gaius Gracchus suchen nach Lösungen für soziale Probleme 
         </p>
       </article>
       <article>
