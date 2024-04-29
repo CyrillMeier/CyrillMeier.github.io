@@ -38,7 +38,7 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
             <article>
         <h3>Eine Karte von Rom</h3>
         <p>
-          <upload/Desktop/Images/Kolosseum.png>
+          <upload/http://alt.antikefan.de/Staetten/Italien/rom/rom_stadtbild_kaiserzeit.jpg>
            (https://github.com/CyrillMeier/CyrillMeier.github.io/assets/167202805/b06417df-771f-4605-bbe4-1bd26b82b215)
         </p>
       </article>
