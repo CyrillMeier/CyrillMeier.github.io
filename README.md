@@ -38,7 +38,7 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
             <article>
         <h3>Eine Karte von Rom</h3>
         <p>
-          <imgsrc="Desktop/Images/Kolosseum.jpg"alt="Kolosseum" />
+          
         </p>
       </article>
     </section>
