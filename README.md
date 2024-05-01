@@ -70,7 +70,7 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
           Kolosseum von Rom:
 Das Kolosseum wurde zum größten römischen Amphitheater mit einer ellipsenförmigen Struktur von 188 Metern Länge, einer Breite von 156 Metern und einer Höhe von 57 Metern. Gebaut aus     Ziegelsteinen und mit Travertinstein verkleidet, wurde es in fünf Ebenen geteilt und bot Platz für mehr als 50.000 Personen.
  <p>
-       <img src="Kolloseum.jpg" alt="Beschreibung des Bildes">
+       <img src="Kolloseum.png" alt="Beschreibung des Bildes">
  <p>
 Zirkus Maximus:
 Der Circus Maximus war der größte Veranstaltungsort für Shows, Aufführungen und Rennen der Antike. Mit 600 Metern Länge, 140 Metern Breite und einer Sitzplatzkapazität von etwa 300.000 Zuschauern wird er als das größte zu Unterhaltungszwecken gebaute Bauwerk der gesamten Menschheitsgeschichte gehandelt.
