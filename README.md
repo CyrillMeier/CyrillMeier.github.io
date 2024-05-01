@@ -13,7 +13,7 @@
   <nav>
     <ul>
       <li><a href="#about-rome">Über Rom</a></li>
-      <li><a href="#ancient-rome">Antike Rom</a></li>
+      <li><a href="#ancient-rome">Antikes Rom</a></li>
     </ul>
   </nav>
 
@@ -44,7 +44,7 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
     </section>
     
     <section id="ancient-rome">
-      <h2>Antike Rom</h2>
+      <h2>Antikes Rom</h2>
       <article>
         <h3>Zeitachse mit wichtigen Ereignissen</h3>
         <p>
