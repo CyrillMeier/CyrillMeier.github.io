@@ -26,7 +26,7 @@
 •	Version des Plutarch: 
     <p>        
 In der Version von Plutarch hatte Amulius, der König von Alba Longa, seinen älteren Bruder Numitor vom Thron gestürzt. Dessen Tochter Rhea Silvia auch Ilia genannt zwang er, Vestalin zu werden. So wollte Amulius verhindern, dass in der Familie des Bruders Nachfahren entstünden, die seinen Thron gefährden könnten. Mars stieg jedoch zu ihrem Tempel hinab, vergewaltigte sie, und sie empfing von ihm die Zwillinge Romulus und Remus.
-Nach deren Geburt wurden die Kinder auf Amulius’ Befehl in einem Weidenkorb auf dem Tiber ausgesetzt und Ilia ins Gefängnis gebracht. Der Tiber führte jedoch gerade Hochwasser, und als das Wasser zurückging, strandete die Wanne am Ficus Ruminalis im Schlamm. Eine vom Schreien der Kinder angelockte Wölfin (Mamma Lupa) brachte sie in ihre Höhle und säugte sie. Ein Specht brachte ihnen zusätzlich Nahrung. Sie wurden jedoch von König Amulius’ Hirten Faustulus entdeckt. Faustulus, der Schweinehirt des Hofes, und seine Frau nahmen daraufhin die Kinder auf und zogen sie groß, ohne zu wissen, wer sie waren. (Dieser Abschnitt der Legende zeigt wie auch in der im Folgenden genannten Version – eine auffallende Parallele zur Erzählung von Phylonome und ihren Zwillingssöhnen Lykastos und Parrhasios.)
+Nach deren Geburt wurden die Kinder auf Amulius’s Befehl in einem Weidenkorb auf dem Tiber ausgesetzt und Ilia ins Gefängnis gebracht. Der Tiber führte jedoch gerade Hochwasser, und als das Wasser zurückging, strandete die Wanne am Ficus Ruminalis im Schlamm. Eine vom Schreien der Kinder angelockte Wölfin (Mamma Lupa) brachte sie in ihre Höhle und säugte sie. Ein Specht brachte ihnen zusätzlich Nahrung. Sie wurden jedoch von König Amulius’ Hirten Faustulus entdeckt. Faustulus, der Schweinehirt des Hofes, und seine Frau nahmen daraufhin die Kinder auf und zogen sie groß, ohne zu wissen, wer sie waren. (Dieser Abschnitt der Legende zeigt wie auch in der im Folgenden genannten Version – eine auffallende Parallele zur Erzählung von Phylonome und ihren Zwillingssöhnen Lykastos und Parrhasios.)
 Romulus und Remus gerieten eines Tages in Streit mit den Hirten von Numitor und jagten ihnen sogar etwas von deren Vieh ab. Als Romulus einmal mit einem Opfer beschäftigt und Remus mit geringer Begleitung unterwegs war, trafen die Hirten des Numitor auf Remus und nahmen ihn gefangen. Er wurde Numitor vorgeführt und Remus berichtete, was er inzwischen über seine und seines Bruders Herkunft erfahren hatte. Daraufhin ahnte Numitor die Zusammenhänge. Als Faustulus von Remus’ Gefangenschaft erfuhr, weihte dieser auch Romulus in dessen Herkunftsgeschichte ein und spornte ihn an, Remus zu befreien. Er selbst wollte zu Numitor eilen, wurde aber abgefangen und zu Amulius gebracht. Unter Folter gestand er diesem so viel, dass Amulius den Numitor fragen ließ, ob dessen Enkel trotz Aussetzung noch lebten. Es brach ein Aufstand in der Stadt aus, als Romulus zur Befreiung seines Bruders ankam. So wurde der Tyrann Amulius gestürzt und getötet.
  <p> 
 •	Version des Dionysios von Halikarnassos: 
@@ -67,39 +67,53 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
         <h3>Beschreibungen von wichtigen Bauwerken</h3>
         <p>
           Kolosseum von Rom:
+          <p>
 Das Kolosseum wurde zum größten römischen Amphitheater mit einer ellipsenförmigen Struktur von 188 Metern Länge, einer Breite von 156 Metern und einer Höhe von 57 Metern. Gebaut aus     Ziegelsteinen und mit Travertinstein verkleidet, wurde es in fünf Ebenen geteilt und bot Platz für mehr als 50.000 Personen.
  <p>
        <img src="Kolloseum.png" alt="Beschreibung des Bildes">
  <p>
+   <p>
 Zirkus Maximus:
+   <p>
 Der Circus Maximus war der größte Veranstaltungsort für Shows, Aufführungen und Rennen der Antike. Mit 600 Metern Länge, 140 Metern Breite und einer Sitzplatzkapazität von etwa 300.000 Zuschauern wird er als das größte zu Unterhaltungszwecken gebaute Bauwerk der gesamten Menschheitsgeschichte gehandelt.
  <p> 
    <img src="Zirkus Maximus.png" alt="Beschreibung des Bildes">
    <p> 
+     <p>
 Forum Romanum:
+       <p>
 Das Forum Romanum (Römischer Marktplatz) in Rom ist das älteste römische Forum und war Mittelpunkt des politischen, wirtschaftlichen, kulturellen und religiösen Lebens. Es liegt in einer Senke zwischen den drei Stadthügeln Kapitol, Palatin und Esquilin und war der Ort vieler öffentlicher Gebäude und Denkmäler.
  <p> 
     <img src="Forum Romanum.png" alt="Beschreibung des Bildes">
    <p> 
+     <p>
 Pantheon:
+       <p>
 Das Pantheon besteht aus zwei Hauptelementen: einem Pronaos mit rechteckigem Grundriss und Tempelfassade im Norden sowie einem kreisrunden, überkuppelten Zentralbau im Süden. Ein Übergangsbereich vermittelt zwischen beiden Gebäudeteilen, die sich ergebenden Zwickel der Schnittstellen wurden für Treppenhäuser genutzt.
  <p> 
    <img src="Pantheon.png" alt="Beschreibung des Bildes">
    <p> 
+     <p>
 Kapitol:
+       <p>
 Das Kapitol in Rom, auch bekannt als Kapitolinische Hügel, ist einer der sieben Hügel, auf denen die antike Stadt Rom erbaut wurde. Es beherbergt heute bedeutende Bauwerke wie die Kapitolinischen Museen und den Tempel des Jupiter Optimus Maximus.
  <p> 
+   <p>
    <img src="Kapitol.png" alt="Beschreibung des Bildes">
    <p> 
 Konstantin Bogen:
+     <p>
 Der Konstantinsbogen (etwa 25 Meter hoch) ist der größte unter den drei Triumphbögen, die in Rom noch erhalten sind. Das Denkmal wurde auf der sogenannten "Via Triumphalis" errichtet. Diesen Weg schlugen traditionell alle Triumphatoren ein, wenn sie vom Circus Maximus kommend den Titus-Bogen erreichten.
  <p> 
    <img src="Konstantin Bogen.png" alt="Beschreibung des Bildes">
    <p> 
+     <p>
 Titusbogen:
+       <p>
 Der direkt an der Via Sacra errichtete Bogen ist der älteste Triumphbogen auf dem Forum. Er besteht aus 1 Bogen und ist etwa 15,4 Meter hoch, 13,5 Meter breit und 4,75 Meter tief. Auf dem Bogen wurden mit der Niederschlagung des Judäeraufstands und der Eroberung Jerusalems 70 n.
       <p>
      <img src="Konstantin Bogen.png" alt="Beschreibung des Bildes">
+        <p>
           </p>
 
   <footer>
