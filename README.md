@@ -6,9 +6,9 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <body background=img src="Rom Karte 1.png">
-      </body>
-  <header>
+  <img src="{{https://cyrillmeier.github.io/}}/images/Rom Karte 1.png" style="display: block; margin: auto;" />
+
+        <header>
     <h1>Rom: Die Hauptstadt einer antiken Weltmacht</h1>
   </header>
   
