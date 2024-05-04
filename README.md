@@ -61,9 +61,9 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
 264-241 v. Chr.: Erster Punischer Krieg gegen die Karthager
  <p> 
 146 v. Chr.: Zerstörung von Karthago; Rom macht das Hinterland zur neuen römischen Provinz Africa
- </p>font>
- <p> 
+  <p> 
 133 v. Chr.: Tiberius und Gaius Gracchus suchen nach Lösungen für soziale Probleme 
+    </font>
         </p>
             <article>
         <h3>Beschreibungen von wichtigen Bauwerken</h3>
