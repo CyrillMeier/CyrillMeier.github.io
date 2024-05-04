@@ -47,7 +47,7 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
       <article>
         <h3>Zeitachse mit wichtigen Ereignissen</h3>
         <p>
-        <font size="2"
+        <font size="5">
 753 v. Chr.: Sagenhafte Gründung Roms
  <p> 
 510 v. Chr.: Vertreibung des letzten Königs, Rom wird zur Republik
