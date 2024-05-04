@@ -5,7 +5,12 @@
   
   <link rel="stylesheet" href="styles.css">
 </head>
-<body style=background-image:url <img src="Rom Karte 1.png">
+<body>
+  body {
+    background-image: url('/Rom Karte 1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
   <header>
     <h1>Rom: Die Hauptstadt einer antiken Weltmacht</h1>
   </header>
