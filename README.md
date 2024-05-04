@@ -45,7 +45,8 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
     <section id="ancient-rome">
       <h2>Antikes Rom</h2>
       <article>
-        <h3>Zeitachse mit wichtigen Ereignissen</h3>
+       <p>
+            <h3>Zeitachse mit wichtigen Ereignissen</h3>
         <p>
         <font size="5">
 753 v. Chr.: Sagenhafte Gründung Roms
