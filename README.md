@@ -47,6 +47,7 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
       <article>
         <h3>Zeitachse mit wichtigen Ereignissen</h3>
         <p>
+        <font size="2"
 753 v. Chr.: Sagenhafte Gründung Roms
  <p> 
 510 v. Chr.: Vertreibung des letzten Königs, Rom wird zur Republik
@@ -60,6 +61,7 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
 264-241 v. Chr.: Erster Punischer Krieg gegen die Karthager
  <p> 
 146 v. Chr.: Zerstörung von Karthago; Rom macht das Hinterland zur neuen römischen Provinz Africa
+ </p>font>
  <p> 
 133 v. Chr.: Tiberius und Gaius Gracchus suchen nach Lösungen für soziale Probleme 
         </p>
