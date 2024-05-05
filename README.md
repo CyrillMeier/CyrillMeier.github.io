@@ -9,7 +9,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
    <style>
      body {
        background-image: url('https://raw.githubusercontent.com/CyrillMeier/CyrillMeier.github.io/branchname/Rom%20Karte%201.jpg');
-);
          background-size: cover;
          background-position: center;
    </style>
