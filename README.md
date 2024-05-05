@@ -1,34 +1,41 @@
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <img src="{{https://cyrillmeier.github.io/}}/images/Rom Karte 1.png" style="display: block; margin: auto;" />
-
-        <header>
-    <h1>Rom: Die Hauptstadt einer antiken Weltmacht</h1>
-  </header>
-  
-  <nav>
-    <ul>
-      <li><a href="#about-rome">Über Rom</a></li>
-      <li><a href="#ancient-rome">Antikes Rom</a></li>
-    </ul>
-  </nav>
-
-  <main>
-    <section id="about-rome">
-      <h2>Über Rom</h2>
-      <article>
-        <h3>Informationen über die Legenden von Rom</h3>
-        <p>       
-•	Version des Plutarch: 
-    <p>        
-In der Version von Plutarch hatte Amulius, der König von Alba Longa, seinen älteren Bruder Numitor vom Thron gestürzt. Dessen Tochter Rhea Silvia auch Ilia genannt zwang er, Vestalin zu werden. So wollte Amulius verhindern, dass in der Familie des Bruders Nachfahren entstünden, die seinen Thron gefährden könnten. Mars stieg jedoch zu ihrem Tempel hinab, vergewaltigte sie, und sie empfing von ihm die Zwillinge Romulus und Remus.
-Nach deren Geburt wurden die Kinder auf Amulius’s Befehl in einem Weidenkorb auf dem Tiber ausgesetzt und Ilia ins Gefängnis gebracht. Der Tiber führte jedoch gerade Hochwasser, und als das Wasser zurückging, strandete die Wanne am Ficus Ruminalis im Schlamm. Eine vom Schreien der Kinder angelockte Wölfin (Mamma Lupa) brachte sie in ihre Höhle und säugte sie. Ein Specht brachte ihnen zusätzlich Nahrung. Sie wurden jedoch von König Amulius’ Hirten Faustulus entdeckt. Faustulus, der Schweinehirt des Hofes, und seine Frau nahmen daraufhin die Kinder auf und zogen sie groß, ohne zu wissen, wer sie waren. (Dieser Abschnitt der Legende zeigt wie auch in der im Folgenden genannten Version – eine auffallende Parallele zur Erzählung von Phylonome und ihren Zwillingssöhnen Lykastos und Parrhasios.)
+Python 3.11.4 (tags/v3.11.4:d2340ef, Jun  7 2023, 05:45:37) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ <head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Rom: Die Hauptstadt einer antiken Weltmacht</title>
+   <link rel="stylesheet" href="styles.css">
+   <style>
+     body {
+       background-image: url('https://raw.githubusercontent.com/CyrillMeier/CyrillMeier.github.io/branchname/Rom%20Karte%201.jpg');
+);
+         background-size: cover;
+         background-position: center;
+   </style>
+ </head>
+ <body>
+   <header>
+     <h1>Rom: Die Hauptstadt einer antiken Weltmacht</h1>
+   </header>
+   
+   <nav>
+     <ul>
+       <li><a href="#about-rome">Über Rom</a></li>
+       <li><a href="#ancient-rome">Antikes Rom</a></li>
+     </ul>
+   </nav>
+ 
+   <main>
+     <section id="about-rome">
+       <h2>Über Rom</h2>
+       <article>
+         <h3>Informationen über die Legenden von Rom</h3>
+         <p>       
+ •	Version des Plutarch: 
+     <p>        
+ In der Version von Plutarch hatte Amulius, der König von Alba Longa, seinen älteren Bruder Numitor vom Thron gestürzt. Dessen Tochter Rhea Silvia auch Ilia genannt zwang er, Vestalin zu werden. So wollte Amulius verhindern, dass in der Familie des Bruders Nachfahren entstünden, die seinen Thron gefährden könnten. Mars stieg jedoch zu ihrem Tempel hinab, vergewaltigte sie, und sie empfing von ihm die Zwillinge Romulus und Remus.
+ Nach deren Geburt wurden die Kinder auf Amulius’s Befehl in einem Weidenkorb auf dem Tiber ausgesetzt und Ilia ins Gefängnis gebracht. Der Tiber führte jedoch gerade Hochwasser, und als das Wasser zurückging, strandete die Wanne am Ficus Ruminalis im Schlamm. Eine vom Schreien der Kinder angelockte Wölfin (Mamma Lupa) brachte sie in ihre Höhle und säugte sie. Ein Specht brachte ihnen zusätzlich Nahrung. Sie wurden jedoch von König Amulius’ Hirten Faustulus entdeckt. Faustulus, der Schweinehirt des Hofes, und seine Frau nahmen daraufhin die Kinder auf und zogen sie groß, ohne zu wissen, wer sie waren. (Dieser Abschnitt der Legende zeigt wie auch in der im Folgenden genannten Version – eine auffallende Parallele zur Erzählung von Phylonome und ihren Zwillingssöhnen Lykastos und Parrhasios.)
 Romulus und Remus gerieten eines Tages in Streit mit den Hirten von Numitor und jagten ihnen sogar etwas von deren Vieh ab. Als Romulus einmal mit einem Opfer beschäftigt und Remus mit geringer Begleitung unterwegs war, trafen die Hirten des Numitor auf Remus und nahmen ihn gefangen. Er wurde Numitor vorgeführt und Remus berichtete, was er inzwischen über seine und seines Bruders Herkunft erfahren hatte. Daraufhin ahnte Numitor die Zusammenhänge. Als Faustulus von Remus’ Gefangenschaft erfuhr, weihte dieser auch Romulus in dessen Herkunftsgeschichte ein und spornte ihn an, Remus zu befreien. Er selbst wollte zu Numitor eilen, wurde aber abgefangen und zu Amulius gebracht. Unter Folter gestand er diesem so viel, dass Amulius den Numitor fragen ließ, ob dessen Enkel trotz Aussetzung noch lebten. Es brach ein Aufstand in der Stadt aus, als Romulus zur Befreiung seines Bruders ankam. So wurde der Tyrann Amulius gestürzt und getötet.
  <p> 
 •	Version des Dionysios von Halikarnassos: 
@@ -115,10 +122,4 @@ Titusbogen:
 Der direkt an der Via Sacra errichtete Bogen ist der älteste Triumphbogen auf dem Forum. Er besteht aus 1 Bogen und ist etwa 15,4 Meter hoch, 13,5 Meter breit und 4,75 Meter tief. Auf dem Bogen wurden mit der Niederschlagung des Judäeraufstands und der Eroberung Jerusalems 70 n.
       <p>
      <img src="Konstantin Bogen.png" alt="Beschreibung des Bildes">
-        <p>
-          </p>
-
-  <footer>
-    <p>&copy; 2024 Cyrill Meier</p>
-  </footer>
 
