@@ -7,10 +7,13 @@ Type "help", "copyright", "credits" or "license()" for more information.
    <title>Rom: Die Hauptstadt einer antiken Weltmacht</title>
    <link rel="stylesheet" href="styles.css">
    <style>
-     body {
-       background-image: url('https://raw.githubusercontent.com/CyrillMeier/CyrillMeier.github.io/main/Rom%20Karte%201.jpg');
-         background-size: cover;
-         background-position: center;
+     <style>
+  body {
+    background-image: url('Kolosseum.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
    </style>
  </head>
  <body>
