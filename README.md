@@ -4,15 +4,15 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>Rom: Die Hauptstadt einer antiken Weltmacht</title>
    <link rel="stylesheet" href="styles.css">
+  
    <style>
-     <style>
   body {
     background-image: url('Kolosseum.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
   }
-   </style>
+   </style>  
  </head>
  <body>
    <header>
