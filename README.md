@@ -121,4 +121,4 @@ Titusbogen:
 Der direkt an der Via Sacra errichtete Bogen ist der älteste Triumphbogen auf dem Forum. Er besteht aus 1 Bogen und ist etwa 15,4 Meter hoch, 13,5 Meter breit und 4,75 Meter tief. Auf dem Bogen wurden mit der Niederschlagung des Judäeraufstands und der Eroberung Jerusalems 70 n.
       <p>
      <img src="Konstantin Bogen.png" alt="Beschreibung des Bildes">
-
+     
