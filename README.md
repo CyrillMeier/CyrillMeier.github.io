@@ -28,6 +28,7 @@
  
    <main>
      <section id="about-rome">
+        <font color="Black">
        <h2>Über Rom</h2>
        <article>
          <h3>Informationen über die Legenden von Rom</h3>
@@ -120,6 +121,7 @@ Der Konstantinsbogen (etwa 25 Meter hoch) ist der größte unter den drei Triump
      <p>
 <b>Titusbogen:</b>
        <p>
+       </font>
 Der Titusbogen ist etwa 15,4 Meter hoch, 13,5 Meter breit und 4,75 Meter tief. Der Bogen ist der älteste, erhaltene Bogen der Stadt Rom und steht auf der Velia, einem Hügel in Rom. Kaiser Domitian liess den Titusbogen in seinem ersten Amtsjahr errichten. Dieser wurde errichtet um die Vergöttlichung von Titus zu symbolisieren.
       <p>
      <img src="Titusbogen.png" heigt="1000" width="1400" alt="Titusbogen">
