@@ -7,7 +7,7 @@
    <style>
       body
       {
-    background-image: url('Rom Karte 2.png');
+    background-image: url('romflagge.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -79,7 +79,7 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
           <p>
 Das Kolosseum wurde zum größten römischen Amphitheater mit einer ellipsenförmigen Struktur von 188 Metern Länge, einer Breite von 156 Metern und einer Höhe von 57 Metern. Gebaut aus     Ziegelsteinen und mit Travertinstein verkleidet, wurde es in fünf Ebenen geteilt und bot Platz für mehr als 50.000 Personen.
  <p>
-       <img src="Kolloseum.png" alt="Beschreibung des Bildes">
+       <img src="Kolosseum.png" alt="Beschreibung des Bildes">
  <p>
    <p>
 Zirkus Maximus:
@@ -93,14 +93,14 @@ Forum Romanum:
        <p>
 Das Forum Romanum (Römischer Marktplatz) in Rom ist das älteste römische Forum und war Mittelpunkt des politischen, wirtschaftlichen, kulturellen und religiösen Lebens. Es liegt in einer Senke zwischen den drei Stadthügeln Kapitol, Palatin und Esquilin und war der Ort vieler öffentlicher Gebäude und Denkmäler.
  <p> 
-    <img src="Forum Romanum.png" alt="Beschreibung des Bildes">
+    <img src="Forumromanum.jpg" alt="Beschreibung des Bildes">
    <p> 
      <p>
 Pantheon:
        <p>
 Das Pantheon besteht aus zwei Hauptelementen: einem Pronaos mit rechteckigem Grundriss und Tempelfassade im Norden sowie einem kreisrunden, überkuppelten Zentralbau im Süden. Ein Übergangsbereich vermittelt zwischen beiden Gebäudeteilen, die sich ergebenden Zwickel der Schnittstellen wurden für Treppenhäuser genutzt.
  <p> 
-   <img src="Pantheon.png" alt="Beschreibung des Bildes">
+   <img src="Rompantheon.jpg" alt="Beschreibung des Bildes">
    <p> 
      <p>
 Kapitol:
@@ -108,13 +108,13 @@ Kapitol:
 Das Kapitol in Rom, auch bekannt als Kapitolinische Hügel, ist einer der sieben Hügel, auf denen die antike Stadt Rom erbaut wurde. Es beherbergt heute bedeutende Bauwerke wie die Kapitolinischen Museen und den Tempel des Jupiter Optimus Maximus.
  <p> 
    <p>
-   <img src="Kapitol.png" alt="Beschreibung des Bildes">
+   <img src="Romkapitol.jpg" alt="Beschreibung des Bildes">
    <p> 
 Konstantin Bogen:
      <p>
 Der Konstantinsbogen (etwa 25 Meter hoch) ist der größte unter den drei Triumphbögen, die in Rom noch erhalten sind. Das Denkmal wurde auf der sogenannten "Via Triumphalis" errichtet. Diesen Weg schlugen traditionell alle Triumphatoren ein, wenn sie vom Circus Maximus kommend den Titus-Bogen erreichten.
  <p> 
-   <img src="Konstantin Bogen.png" alt="Beschreibung des Bildes">
+   <img src="Konstantinbogen.jpg" alt="Beschreibung des Bildes">
    <p> 
      <p>
 Titusbogen:
