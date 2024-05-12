@@ -1,24 +1,23 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Rom: Die Hauptstadt einer antiken Weltmacht v1</title>
+   <title>Rom: Die Hauptstadt einer antiken Weltmacht v2</title>
    <link rel="stylesheet" href="styles.css">
   <p>
    <style>
   body
-      <!-- Komentar -->
-   {
+      {
     background-image: url('Rom Karte 2.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-  <!-- background-color: rgba(255, 255, 255, 0); -->
+    background-color: rgba(255, 255, 255, 0);
   }
    </style>  
  </head>
  <body>
    <header>
-     <h1>Rom: Die Hauptstadt einer antiken Weltmacht v1</h1>
+     <h1>Rom: Die Hauptstadt einer antiken Weltmacht v2</h1>
    </header>
    
    <nav>
