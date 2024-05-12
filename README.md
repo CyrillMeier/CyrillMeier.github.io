@@ -5,7 +5,9 @@
    <link rel="stylesheet" href="styles.css">
   <p>
    <style>
-  body {
+  body
+      <!-- Komentar -->
+      {
     background-image: url('Rom Karte 2.png');
     background-size: cover;
     background-repeat: no-repeat;
