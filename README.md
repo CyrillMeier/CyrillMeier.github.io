@@ -16,7 +16,7 @@
 
  <body>
    <header>
-     <h1><font color="Lightcoral">Rom: Die Hauptstadt einer antiken Weltmacht</font></h1>
+     <h1><font color="Black">Rom: Die Hauptstadt einer antiken Weltmacht</font></h1>
    </header>
    
    <nav>
