@@ -7,7 +7,7 @@
    <style>
       body
       {
-    background-image: url('Altes_Rom_1.png');
+    background-image: url('rom_karte_2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
