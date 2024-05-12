@@ -10,7 +10,7 @@
       {
     background-image: url('Rom Karte 2.png');
     background-size: cover;
-    background-repeat: no-repeat;
+    <!-- background-repeat: no-repeat; -->
     background-attachment: fixed;
     background-color: 
   }
