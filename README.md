@@ -5,7 +5,7 @@
    <link rel="stylesheet" href="styles.css">
   <p>
    <style>
-      <body>
+      body
       {
     background-image: url('Rom Karte 2.png');
     background-size: cover;
@@ -14,7 +14,7 @@
   }
       </style>  
  </head>
- </body>
+ <body>
    <header>
      <h1>Rom: Die Hauptstadt einer antiken Weltmacht v6</h1>
    </header>
