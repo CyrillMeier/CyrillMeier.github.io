@@ -5,16 +5,13 @@
    <link rel="stylesheet" href="styles.css">
   <p>
    <style>
-  <div>
       {
     background-image: url('Rom Karte 2.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-opacity: 0.1;
   }
-      </div>
-   </style>  
+      </style>  
  </head>
  <body>
    <header>
