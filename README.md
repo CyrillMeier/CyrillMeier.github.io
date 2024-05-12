@@ -10,6 +10,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-color: transparent;
   }
    </style>  
  </head>
