@@ -28,7 +28,7 @@
  
    <main>
      <section id="about-rome">
-        <font color="Black">
+        <font color="Dimgray">
        <h2>Über Rom</h2>
        <article>
          <h3>Informationen über die Legenden von Rom</h3>
