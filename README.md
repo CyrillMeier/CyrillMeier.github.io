@@ -79,7 +79,7 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
           <p>
 Das Kolosseum wurde zum größten römischen Amphitheater mit einer ellipsenförmigen Struktur von 188 Metern Länge, einer Breite von 156 Metern und einer Höhe von 57 Metern. Gebaut aus     Ziegelsteinen und mit Travertinstein verkleidet, wurde es in fünf Ebenen geteilt und bot Platz für mehr als 50.000 Personen.
  <p>
-       <img src="Romkolosseum.png" alt="Beschreibung des Bildes">
+       <img src="Romkolosseum.jpg" alt="Beschreibung des Bildes">
  <p>
    <p>
 Zirkus Maximus:
