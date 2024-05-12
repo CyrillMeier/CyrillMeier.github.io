@@ -48,7 +48,7 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
             <article>
         <h3>Eine Karte von Rom</h3>
         <p>
-                     <img src="Rom Karte 1.png" heigt="400" width="700" alt="Karte von Rom">
+                     <img src="Rom Karte 1.png" heigt="400" width="700" border="3" alt="Karte von Rom">
         </p>
       </article>
         <main>
