@@ -1,11 +1,11 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Rom: Die Hauptstadt einer antiken Weltmacht v5</title>
+   <title>Rom: Die Hauptstadt einer antiken Weltmacht v6</title>
    <link rel="stylesheet" href="styles.css">
   <p>
    <style>
-  body
+  <div>
       {
     background-image: url('Rom Karte 2.png');
     background-size: cover;
@@ -13,11 +13,12 @@
     background-attachment: fixed;
     background-opacity: 0.1;
   }
+      </div>
    </style>  
  </head>
  <body>
    <header>
-     <h1>Rom: Die Hauptstadt einer antiken Weltmacht v5</h1>
+     <h1>Rom: Die Hauptstadt einer antiken Weltmacht v6</h1>
    </header>
    
    <nav>
