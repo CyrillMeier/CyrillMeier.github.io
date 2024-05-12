@@ -1,7 +1,7 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Rom: Die Hauptstadt einer antiken Weltmacht v6</title>
+   <title>Rom: Die Hauptstadt einer antiken Weltmacht</title>
    <link rel="stylesheet" href="styles.css">
   <p>
    <style>
@@ -16,7 +16,7 @@
  </head>
  <body>
    <header>
-     <h1>Rom: Die Hauptstadt einer antiken Weltmacht v6</h1>
+     <h1>Rom: Die Hauptstadt einer antiken Weltmacht</h1>
    </header>
    
    <nav>
