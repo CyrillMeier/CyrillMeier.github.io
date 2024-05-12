@@ -120,7 +120,7 @@ Der Konstantinsbogen (etwa 25 Meter hoch) ist der größte unter den drei Triump
      <p>
 <b>Titusbogen:</b>
        <p>
-Der direkt an der Via Sacra errichtete Bogen ist der älteste Triumphbogen auf dem Forum. Er besteht aus 1. Bogen und ist etwa 15,4 Meter hoch, 13,5 Meter breit und 4,75 Meter tief. Auf dem Bogen wurden mit der Niederschlagung des Judäeraufstands und der Eroberung Jerusalems 70 n. Christus.
+Der Titusbogen ist etwa 15,4 Meter hoch, 13,5 Meter breit und 4,75 Meter tief. Der Bogen ist der älteste, erhaltene Bogen der Stadt Rom und steht auf der Velia, einem Hügel in Rom. Kaiser Domitian liess den Titusbogen in seinem ersten Amtsjahr errichten. Dieser wurde errichtet um die Vergöttlichung von Titus zu symbolisieren.
       <p>
      <img src="Titusbogen.png" heigt="1000" width="1400" alt="Titusbogen">
      
