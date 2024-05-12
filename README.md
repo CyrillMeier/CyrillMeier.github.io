@@ -6,12 +6,13 @@
   <p>
    <style>
   body
+      <!-- Komentar -->
             {
     background-image: url('Rom Karte 2.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-color: rgba(255, 255, 255, 0);
+  <!-- background-color: rgba(255, 255, 255, 0); -->
   }
    </style>  
  </head>
