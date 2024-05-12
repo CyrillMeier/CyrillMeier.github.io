@@ -1,13 +1,13 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Rom: Die Hauptstadt einer antiken Weltmacht 4</title>
+   <title>Rom: Die Hauptstadt einer antiken Weltmacht</title>
    <link rel="stylesheet" href="styles.css">
   <p>
    <style>
       body
       {
-    background-image: url('Altes_Rom_1.png');
+    background-image: url('romflagge.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -16,7 +16,7 @@
 
  <body>
    <header>
-     <h1><font color="Black">Rom: Die Hauptstadt einer antiken Weltmacht 4</font></h1>
+     <h1><font color="Black">Rom: Die Hauptstadt einer antiken Weltmacht</font></h1>
    </header>
    
    <nav>
