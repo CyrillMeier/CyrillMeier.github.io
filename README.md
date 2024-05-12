@@ -1,7 +1,7 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Rom: Die Hauptstadt einer antiken Weltmacht 2</title>
+   <title>Rom: Die Hauptstadt einer antiken Weltmacht 3</title>
    <link rel="stylesheet" href="styles.css">
   <p>
    <style>
@@ -16,7 +16,7 @@
 
  <body>
    <header>
-     <h1><font color="Black">Rom: Die Hauptstadt einer antiken Weltmacht 2</font></h1>
+     <h1><font color="Black">Rom: Die Hauptstadt einer antiken Weltmacht 3</font></h1>
    </header>
    
    <nav>
@@ -48,7 +48,7 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
             <article>
         <h3>Eine Karte von Rom</h3>
         <p>
-                     <img src="Rom Karte 1.png" heigt="400" width="700" border="3" alt="Karte von Rom">
+                     <img src="Rom Karte 1.png" heigt="400" width="700" border="10" alt="Karte von Rom">
         </p>
       </article>
         <main>
