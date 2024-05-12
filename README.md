@@ -3,7 +3,12 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>Rom: Die Hauptstadt einer antiken Weltmacht</title>
    <link rel="stylesheet" href="styles.css">
+  <p>
+   <style>
+  body {
+    background-image: url('Rom Karte 2.png');
 
+  }
    </style>  
  </head>
  <body>
