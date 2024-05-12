@@ -93,7 +93,7 @@ Forum Romanum:
        <p>
 Das Forum Romanum (Römischer Marktplatz) in Rom ist das älteste römische Forum und war Mittelpunkt des politischen, wirtschaftlichen, kulturellen und religiösen Lebens. Es liegt in einer Senke zwischen den drei Stadthügeln Kapitol, Palatin und Esquilin und war der Ort vieler öffentlicher Gebäude und Denkmäler.
  <p> 
-    <img src="Forumromanum.jpg" alt="Forum Romanum">
+    <img src="Forumromanum.jpg" heigt="100" width="200" alt="Forum Romanum">
    <p> 
      <p>
 Pantheon:
