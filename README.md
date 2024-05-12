@@ -7,7 +7,6 @@
    <style>
   body {
     background-image: url('Rom Karte 2.png');
-
   }
    </style>  
  </head>
