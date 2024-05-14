@@ -48,7 +48,7 @@ Romulus habe dann Numitor das erzählt, was er von Faustulus erfahren hatte, und
             <article>
         <h3>Eine Karte von Rom</h3>
         <p>
-                     <img src="Rom Karte 1.png" heigt="400" width="700" alt="Karte von Rom" border="10">
+                     <img src="Rom Karte 1.png" heigt="300" width="500" alt="Karte von Rom" border="10">
         </p>
       </article>
         <main>
@@ -95,7 +95,7 @@ Der Circus Maximus war der größte Veranstaltungsort für Shows, Aufführungen 
        <p>
 Das Forum Romanum auch bekannt als der Römische Marktplatz in Rom ist das älteste römische Forum und war Mittelpunkt des politischen, wirtschaftlichen, kulturellen und religiösen Lebens. Es liegt in einer Senke zwischen den drei Stadthügeln dem Kapitol, dem Palatin und dem Esquilin und war der Ort vieler öffentlicher Gebäude und Denkmäler.
  <p> 
-    <img src="Forumromanum.jpg" heigt="400" width="700" alt="Forum Romanum" align="center">
+    <img src="Forumromanum.jpg" heigt="300" width="500" alt="Forum Romanum" align="center">
    <p> 
      <p>
 <b>Pantheon:</b>
