@@ -93,7 +93,7 @@ Der Circus Maximus war der größte Veranstaltungsort für Shows, Aufführungen 
      <p>
 <b>Forum Romanum:</b>
        <p>
-Das Forum Romanum auch bekannt als der Römische Marktplatz in Rom ist das älteste römische Forum und war Mittelpunkt des politischen, wirtschaftlichen, kulturellen und religiösen Lebens. Es liegt in einer Senke zwischen den drei Stadthügeln dem Kapitol, dem Palatin und dem Esquilin und war der Ort vieler öffentlicher Gebäude und Denkmäler.
+Das Forum Romanum welches als Römischer Marktplatz diente, ist das älteste römische Forum und war Mittelpunkt des politischen, wirtschaftlichen, kulturellen und religiösen Lebens. Es liegt in einer Senke zwischen den drei Stadthügeln dem Kapitol, dem Palatin und dem Esquilin und war der Ort vieler öffentlicher Gebäude und Denkmäler.
  <p> 
     <img src="Forumromanum.jpg" heigt="300" width="500" alt="Forum Romanum" align="center">
    <p> 
