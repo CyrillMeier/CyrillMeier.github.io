@@ -86,35 +86,35 @@ Das Kolosseum wurde zum größten römischen Amphitheater mit einer ellipsenför
    <p>
 <b>Zirkus Maximus:</b>
    <p>
-Der Circus Maximus war der größte Veranstaltungsort für Shows, Aufführungen und Rennen der Antike. Mit 600 Metern Länge, 140 Metern Breite und einer Sitzplatzkapazität von etwa 300.000 Zuschauern wird er als das größte zu Unterhaltungszwecken gebaute Bauwerk der gesamten Menschheitsgeschichte gehandelt.
+Der Circus Maximus war der größte Veranstaltungsort für Shows, Aufführungen und Rennen der Antike. Mit einer Länge von 600 Metern, einer Breite von 140 Metern und einer Sitzplatzkapazität von etwa 300.000 Zuschauern wird der Zirkus Maximus als das größte für Unterhaltungszwecken gebaute Bauwerk der gesamten geschichte der Menschheit gehandelt.
  <p> 
    <img src="Zirkus Maximus.png" heigt="1000" width="1400" alt="Zirkus Maximus">
    <p> 
      <p>
 <b>Forum Romanum:</b>
        <p>
-Das Forum Romanum welches als Römischer Marktplatz diente, ist das älteste römische Forum und war Mittelpunkt des politischen, wirtschaftlichen, kulturellen und religiösen Lebens. Es liegt in einer Senke zwischen den drei Stadthügeln dem Kapitol, dem Palatin und dem Esquilin und war der Ort vieler öffentlicher Gebäude und Denkmäler.
+Das Forum Romanum welches als Römischer Marktplatz diente, ist das älteste römische Forum und diente als Mittelpunkt des politischen, wirtschaftlichen und kulturellen so wie auch dem religiösen Lebens. Es liegt in einer Senke zwischen den drei Stadthügeln. Nähmlich dem Kapitol, dem Palatin und dem Esquilin. Es war ein  Ort vieler öffentlicher Gebäude und Denkmäler.
  <p> 
     <img src="Forumromanum.jpg" heigt="300" width="500" alt="Forum Romanum" align="center">
    <p> 
      <p>
 <b>Pantheon:</b>
        <p>
-Das Pantheon besteht aus zwei Hauptelementen: Einem Pronaos mit rechteckigem Grundriss und Tempelfassade im Norden sowie einem kreisrunden, überkuppelten Zentralbau im Süden. Ein Übergangsbereich vermittelt zwischen beiden Gebäudeteilen, die sich ergebenden Zwickel der Schnittstellen wurden für Treppenhäuser genutzt.
+Das Pantheon besteht aus zwei Hauptelementen: Einem Pronaos mit einem rechteckigem Grundriss so wie auch einer Tempelfassade im Norden und einem kreisrunden, überkuppelten Zentralbau im Süden. Ein Übergangsbereich vermittelt zwischen den beiden Gebäudeteilen, welche sich ergebenden Zwickel der Schnittstellen wurden für die Treppenhäuser genutzt.
  <p> 
    <img src="Rompantheon.jpg" heigt="1000" width="1400" alt="Pantheon">
    <p> 
      <p>
 <b>Kapitol:</b>
        <p>
-Das Kapitol in Rom, auch bekannt als Kapitolinische Hügel, ist einer der sieben Hügel, auf denen die antike Stadt Rom erbaut wurde. Es beherbergt heute bedeutende Bauwerke wie die Kapitolinischen Museen und den Tempel des Jupiter Optimus Maximus.
+Das Kapitol in Rom welches auch als Kapitolinische Hügel bekannt ist, ist einer der sieben Hügel auf denen die antike Stadt Rom erbaut wurde. Heutzutage beherbergt es bedeutende Bauwerke wie unteranderem die Kapitolinischen Museen und den Tempel des Jupiter.
  <p> 
    <p>
    <img src="Romkapitol.jpg" heigt="1000" width="1400" alt="Kapitol">
    <p> 
 <b>Konstantin Bogen:</b>
      <p>
-Der Konstantinsbogen, welcher etwa 25 Meter hoch ist der größte unter den drei Triumphbögen, die in Rom noch erhalten sind. Das Denkmal wurde auf der sogenannten "Via Triumphalis" errichtet. Diesen Weg schlugen traditionell alle Triumphatoren ein, wenn sie vom Circus Maximus kommend den Titus-Bogen erreichten.
+Der Konstantinsbogen, welcher eine höhe von etwa 25 Metern hat ist der größte unter den drei Triumphbögen welche in Rom noch erhalten sind. Der Begen wurde auf der sogenannten "Via Triumphalis" errichtet. Diesen Weg schlugen traditionell alle Triumphatoren ein, nachdem sie vom Circus Maximus kamen und den Titus-Bogen erreichten.
  <p> 
    <img src="Konstantinbogen.jpg" heigt="1000" width="1400" alt="Konstantinbogen">
    <p> 
@@ -122,7 +122,7 @@ Der Konstantinsbogen, welcher etwa 25 Meter hoch ist der größte unter den drei
 <b>Titusbogen:</b>
        <p>
        
-Der Titusbogen ist etwa 15,4 Meter hoch, 13,5 Meter breit und 4,75 Meter tief. Der Bogen ist der älteste, erhaltene Bogen der Stadt Rom und steht auf der Velia, einem Hügel in Rom. Kaiser Domitian liess den Titusbogen in seinem ersten Amtsjahr errichten. Dieser wurde errichtet um die Vergöttlichung von Titus zu symbolisieren.
+Der Titusbogen hat eine Höhe von etwa 15,4 Meter, eine Breite von etwa 13,5 Meter und eine Tiefe von etwa 4,75 Meter. Der Bogen ist der älteste, in der Stadt Rom erhaltene Bogen der antiken Stadt Rom und steht auf der Velia, einem Hügel in Rom. Kaiser Domitian liess den Titusbogen während seines ersten Amtsjahr errichten. Dieser wurde errichtet um die Vergöttlichung von Titus zu symbolisieren.
       <p>
      <img src="Titusbogen.png" heigt="1000" width="1400" alt="Titusbogen">
      
